@@ -4,11 +4,15 @@ Zhenze Yang [1,2], Sarah K. Yorke [3], Tuomas P. J. Knowles [3], and Markus J. B
 
 [1] Laboratory for Atomistic and Molecular Mechanics, Department of Civil and Environmental Engineering,
 Massachusetts Institute of Technology, 77 Massachusetts Ave. Room 1-165, Cambridge, 02139, MA, USA
+
 [2] Department of Materials Science and Engineering, Massachusetts Institute of Technology, 77 Massachusetts Ave.,
 Cambridge, 02139, MA, USA
+
 [3] Yusuf Hamied Department of Chemistry, University of Cambridge, Lensfield Road, Cambridge, CB2 1EW, UK
+
 [4] Center for Computational Engineering, Massachusetts Institute of Technology, 77 Massachusetts Ave., Cambridge,
 02139, MA, USA
+
 [5] Center for Materials Science and Engineering, Massachusetts Institute of Technology, 77 Massachusetts Ave.,
 Cambridge, 02139, MA, USA
 

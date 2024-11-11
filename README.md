@@ -39,8 +39,15 @@ pip install -r requirements.txt
 - The **phase_data_clean.csv** stores the clean data of experimental conditions and corresponding self-assembly phases of different peptides based on text mining.
 
 ### scripts/
-- The **comparison** folder includes the inference process and training snippet for the original and fine-tuned ChatGPT models. All fine-tuning were done using OpenAI API platform.
-- The **phase_predictor** folder includes the whole workflow of building classical ML models for phase prediction given peptide sequence and other experimental conditins. 
+- The **comparison/** folder includes notbooks for the inference process and training snippet for the original and fine-tuned ChatGPT models. All fine-tuning were done using OpenAI API platform.
+```
+pretrain.ipynb
+fine-tuning.ipynb
+```
+- The **phase_predictor/** folder includes notebooks for the whole workflow of building classical ML models for phase prediction given peptide sequence and other experimental conditins.
+```
+train_and_inference.ipynb
+```
 
 
 

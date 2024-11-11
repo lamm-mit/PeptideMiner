@@ -34,8 +34,15 @@ pip install -r requirements.txt
 ```
 ## Usage
 
-### Data
+### Data/
 - The **train.jsonl** and **test.jsonl** store the processed text data used for training and testing purposes for comparison between the original and fine-tuned ChatGPT models.
+- The **phase_data_clean.csv** stores the clean data of experimental conditions and corresponding self-assembly phases of different peptides based on text mining.
+
+### scripts/
+- The **comparison** folder includes the inference process and training snippet for the original and fine-tuned ChatGPT models. All fine-tuning were done using OpenAI API platform.
+- The **phase_predictor** folder includes the whole workflow of building classical ML models for phase prediction given peptide sequence and other experimental conditins. 
+
+
 
 
 

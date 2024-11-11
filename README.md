@@ -35,11 +35,11 @@ pip install -r requirements.txt
 ## Usage
 
 ### Data/
-- The **train.jsonl** and **test.jsonl** store the processed text data used for training and testing purposes for comparison between the original and fine-tuned ChatGPT models.
+- The **train.jsonl** and **test.jsonl** store the processed text data used for training and testing purposes for comparison between the original and fine-tuned GPT models.
 - The **phase_data_clean.csv** stores the clean data of experimental conditions and corresponding self-assembly phases of different peptides based on text mining.
 
 ### scripts/
-- The **comparison/** folder includes notbooks for the inference process and training snippet for the original and fine-tuned ChatGPT models. All fine-tuning were done using OpenAI API platform.
+- The **comparison/** folder includes notbooks for the inference process and training snippet for the original and fine-tuned GPT models. All fine-tuning were done using OpenAI API platform.
 ```
 pretrain.ipynb
 fine-tuning.ipynb
@@ -48,10 +48,6 @@ fine-tuning.ipynb
 ```
 train_and_inference.ipynb
 ```
-
-
-
-
 
 
 ## Reference

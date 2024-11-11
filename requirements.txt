@@ -1,0 +1,13 @@
+matplotlib==3.1.3
+numpy==1.19.5
+scikit-learn==0.24.2
+scipy==1.4.1
+seaborn==0.11.2
+tensorflow==2.6.2
+langchain==0.0.338
+langchain-experimental==0.0.42
+langsmith==0.0.65
+openai==1.3.5
+pdfminer.six==20221105
+pdftotext @ file:///home/conda/feedstock_root/build_artifacts/pdftotext_1700035845233/work
+pypdf==3.17.1

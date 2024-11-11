@@ -25,6 +25,9 @@ ABSTRACT: Peptides are ubiquitous and important biologically derived molecules, 
 Overview of the workflow reported in this work}. We first collect PDF files of publications from different journal presses and scientific databases based on the previous polypeptide database SAPdb \cite{MATHUR2021104391}. Here, we extract not only the peptide sequence but also experimental conditions from those previous publications and learn their impacts on the self-assembly phase of polypeptides. The selected publications are read and processed by human experts to curate the database, which is further utilized to train ML algorithms for predicting self-assembled structure from peptide sequences and experimental conditions. We also use the manually curated database to fine-tune a LLM to be specialized in literature mining of polypeptide publications and compare the performance with the same LLM without fine-tuning. The model can be used to extract information for new publications, significantly reducing the time required compared to manual methods employed by human experts. Moreover, by incorporating this new data, we can augment our existing database, thereby further refining and enhancing our ML model for phase prediction.
 
 ## Installation
+```
+git clone 
+```
 
 ## Examples
 

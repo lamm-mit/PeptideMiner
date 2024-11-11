@@ -26,10 +26,15 @@ Overview of the workflow reported in this work}. We first collect PDF files of p
 
 ## Installation
 ```
-git clone 
+git clone https://github.com/lamm-mit/PeptideMiner.git
+cd PeptideMiner
+conda create -n [your_env]
+conda activate [your_env]
+pip install -r requirements.txt
 ```
+## Usage
 
-## Examples
+
 
 ## Reference
 

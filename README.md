@@ -34,6 +34,10 @@ pip install -r requirements.txt
 ```
 ## Usage
 
+### Data
+- The **train.jsonl** and **test.jsonl** store the processed text data used for training and testing purposes for comparison between the original and fine-tuned ChatGPT models.
+
+
 
 
 ## Reference

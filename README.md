@@ -64,7 +64,7 @@ train_and_inference.ipynb
 }
 ```
 
-- We used OpenAPI API for text mining and fine-tuning.
+- We used OpenAPI API for text mining and fine-tuning with "GPT-3.5-turbo-0215" model.
 ```bibtex
 @misc{OpenAIGPT3.5Turbo,
   title = {GPT-3.5-turbo-0125},

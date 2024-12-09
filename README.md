@@ -63,3 +63,14 @@ train_and_inference.ipynb
       url={https://arxiv.org/abs/XXX.YYYYYY}, 
 }
 ```
+
+- We used OpenAPI API for text mining and fine-tuning.
+```bibtex
+@misc{OpenAIGPT3.5Turbo,
+  title = {GPT-3.5-turbo-0125},
+  author = {{OpenAI}},
+  year = {2023},
+  howpublished = {\url{https://openai.com/api/}},
+  note = {Accessed: 2023-04-07}
+}
+```
